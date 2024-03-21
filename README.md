@@ -72,7 +72,7 @@ void loop()
 
 ![Screenshot 2024-03-21 114153](https://github.com/Hari-Prasath-P-08/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/139455593/814d959f-7aa9-4c32-bcb6-bd5c456a3dc7)
 
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/67ed339f-8011-4acc-b793-e5d4930639c7)
+![WhatsApp Image 2024-03-21 at 11 36 54_cfbe16ec](https://github.com/Hari-Prasath-P-08/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/139455593/ea17ffce-fa4b-40dd-8e5f-80610a504677)
 
 ## RESULTS AND DISCUSSION:
 
