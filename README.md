@@ -42,7 +42,7 @@ As shown in the circuit diagram we need only 3 Arduino terminal pins, pin 8 is f
 
 ## PROGRAM:
 
-'''c++
+```c++
 int enable = 6;
 int input1 = 3;
 int input2 = 4;
@@ -64,7 +64,7 @@ void loop()
   digitalWrite(input2, HIGH);
   delay(7000);
 }
-'''
+```
 
 ## OUTPUT:
 
